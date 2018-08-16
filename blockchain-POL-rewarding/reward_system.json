@@ -1,0 +1,30 @@
+{
+  "daebak": {
+    "asset_id": "GQsFCrD43pHkhdvt5PnZ4W9Qgg8X9LjCSWAUG6mLoFMg",
+    "rewards": {
+      "like": 500000000,
+      "likes": 500000000,
+      "clicks": 500000000,
+      "referral": 2000000000
+    }
+  },
+
+  "hotx": {
+    "asset_id": "GQsFCrD43pHkhdvt5PnZ4W9Qgg8X9LjCSWAUG6mLoFMg",
+    "rewards": {
+      "like": 500000000,
+      "likes": 500000000,
+      "clicks": 500000000,
+      "referral": 2000000000
+    }
+  },
+
+  "iki": {
+    "asset_id": "GQsFCrD43pHkhdvt5PnZ4W9Qgg8X9LjCSWAUG6mLoFMg",
+    "rewards": {
+      "likes": 1,
+      "login": 1,
+      "referral": 20
+    }
+  }
+}
